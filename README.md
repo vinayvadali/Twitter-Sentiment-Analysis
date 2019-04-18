@@ -19,7 +19,7 @@ Cleaned tweets is then split into train and tset dataset. Then, Converts a colle
 After that training data is used for training the classifier then with testing data we can do prediction and calculate accuracy of the classifier.
 
 
-# 2). Maxent Classifier
+# B). Maxent Classifier
 Dataset is first cleaned by removing special characters, converted to lower case and then stop words are removed.
 Cleaned Tweets are then converted into dictonary format with tweets as value and number of unique words in the tweet as key.
 Class label is then added with the dictonary to get final data set which is then split into training and testing data.
