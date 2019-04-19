@@ -15,7 +15,7 @@ most basic form, and yet performs quite complex classification tasks. It is a la
 training phase. Rather, it uses all of the data for training while classifying a new data point or instance.
 
 In my program, first dataset is cleaned by removing number, punctuation and stopwords. It is then converted into lower case.
-Cleaned tweets is then split into train and tset dataset. Then, Converts a collection of text documents to a matrix of token counts.
+Cleaned tweets is then split into train and test dataset. Then, Converts a collection of text documents to a matrix of token counts.
 After that training data is used for training the classifier then with testing data we can do prediction and calculate accuracy of the classifier.
 
 
